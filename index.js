@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 
 const headers = {
-    mainHeader: 'Give me feedback!',
+    mainHeader: 'How would you rate your level of productivity today?!',
     statsHeader: 'Statistics'
 }
 
